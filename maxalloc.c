@@ -8,9 +8,10 @@ This program  lets you find out the maximum size of contiguous memory you can al
 
 */
 
+#include <stdio.h> 
 
 int main() {
-
+  
   long maxsize = 0; 
   
   printf("maxsize=%ld\n", maxsize);
